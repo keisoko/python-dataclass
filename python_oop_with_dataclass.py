@@ -1,3 +1,6 @@
+"""Dataclass version of the Python classes described in Python Object
+Oriented Programming - For Beginners Youtube Video"""
+
 from typing import List
 from dataclasses import dataclass, field
 
